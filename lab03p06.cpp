@@ -10,7 +10,7 @@ int main()
     {
         cout << "x=";
         cin >> tab[n];
-        if (tab[n] > 100 || tab[n] < -100)
+        if ((tab[n] > 100 || tab[n] < -100) && n<100)
             break;
         n++;
     }
