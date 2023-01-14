@@ -1,0 +1,10 @@
+3
+Jan
+Kowalski
+42
+Janek
+Nowak
+23
+Ola
+Kowalska
+20
